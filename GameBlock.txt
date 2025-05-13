@@ -13,6 +13,7 @@
 0.0.0.0 cdn1.origin.com
 0.0.0.0 cdn2.origin.com
 0.0.0.0 gog.com
+0.0.0.0 bloxd.io
 0.0.0.0 store.gog.com
 0.0.0.0 cdn.gog.com
 0.0.0.0 galaxy-client.gog.com
