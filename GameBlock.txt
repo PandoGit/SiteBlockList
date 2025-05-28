@@ -709,4 +709,5 @@ Okay, I can help you expand your list of game websites. Here are more websites, 
 0.0.0.0 gold.roblox.com
 0.0.0.0 robloxlabs.com
 0.0.0.0 papasgamesfree.io
+0.0.0.0 play.tetris.com
 
